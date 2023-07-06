@@ -1,0 +1,4 @@
+  File "utils/evaluate.py", line 18
+    print '%s: %.3f'%(metric, score)
+                   ^
+SyntaxError: invalid syntax
